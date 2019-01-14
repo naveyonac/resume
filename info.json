@@ -1,0 +1,18 @@
+{
+    "name": "Evan Canoy",
+    "website": "https://naveyonac.github.io/",
+    "github": "naveyonac",
+    "email": "evan.canoy@icloud.com",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "bootstrap", 
+        "node.js", 
+    ],
+    "other-skills": [
+        "Driving a manual transmission(pretty well if I do say so myself)",
+        "singing",
+        "Professional Netflixer"
+    ]
+}
